@@ -22,13 +22,3 @@ jobs:
       with:
         name: examples
         path: examples/*.pdf
-  print_resume_log:
-    runs-on: ubuntu-latest
-    needs: build  # Specify the dependency on the 'build' job
-
-    steps:
-    - name: Checkout repository
-      uses: actions/checkout@v2
-
-    - name: Print Resume Log
-      run: cat examples/resume.log
