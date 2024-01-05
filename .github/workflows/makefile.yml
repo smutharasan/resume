@@ -22,3 +22,12 @@ jobs:
       with:
         name: examples
         path: examples/*.pdf
+  print_resume_log:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Print Resume Log
+      run: cat examples/resume.log
