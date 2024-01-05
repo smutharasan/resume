@@ -24,6 +24,7 @@ jobs:
         path: examples/*.pdf
   print_resume_log:
     runs-on: ubuntu-latest
+    needs: build  # Specify the dependency on the 'build' job
 
     steps:
     - name: Checkout repository
