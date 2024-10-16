@@ -665,6 +665,22 @@
       {\multicolumn{2}{L{\textwidth}}{\descriptionstyle{#5}} \\}
   \end{tabular*}%
 }
+% Define an entry of cv information
+% Usage: \cvproject{<position>}{<title>}{<location>}{<date>}{<description>}
+\newcommand*{\cvproject}[5]{%
+  \vspace{-2.0mm}
+  \setlength\tabcolsep{0pt}
+  \setlength{\extrarowheight}{0pt}
+  \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} L{\textwidth - 4.5cm} R{4.5cm}}
+    \ifempty{#2#3}
+      {\entrytitlestyle{#1} \\}
+      {\entrypositionstyle{#2} & \entrylocationstyle{#3} \\
+      \entrytitlestyle{#1} \\}
+    \ifstrempty{#5}
+      {}
+      {\multicolumn{2}{L{\textwidth}}{\descriptionstyle{#5}} \\}
+  \end{tabular*}%
+}
 
 % Define an environment for cvsubentry
 \newenvironment{cvsubentries}{%
