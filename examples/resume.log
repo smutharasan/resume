@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.3.14)  7 MAR 2025 14:15
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.3.14)  7 MAR 2025 14:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1323,7 +1323,7 @@ Pro-Bold.otf
 Here is how much of TeX's memory you used:
  33342 strings out of 478190
  676656 string characters out of 5854827
- 1154048 words of memory out of 5000000
+ 1153048 words of memory out of 5000000
  53349 multiletter control sequences out of 15000+600000
  472119 words of font info for 125 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
