@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.3.14)  7 MAR 2025 14:30
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.3.14)  7 MAR 2025 14:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1226,18 +1226,11 @@ ex-text;" at 16.0pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSans
 Pro-Bold.otf
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 10.
+(Font)              scaled to size 9.0pt on input line 9.
 Requested font "[SourceSansPro-Light.otf]/OT:script=latn;language=dflt;mapping=
 tex-text;" at 9.0pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSans
 Pro-Light.otf
-
-Overfull \hbox (6.34914pt too wide) in paragraph at lines 14--15
-[]\TU/SourceSansPro(2)/m/n/9 Passionate full-stack cloud developer specializing
- in deploying scalable web applications, implementing CI/CD and AI-driven autom
-ated pipelines
- []
-
 ) (examples/resume/skills.tex
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
 (Font)              scaled to size 10.0pt on input line 14.
@@ -1323,7 +1316,7 @@ Pro-Bold.otf
 Here is how much of TeX's memory you used:
  33342 strings out of 478190
  676656 string characters out of 5854827
- 1153048 words of memory out of 5000000
+ 1151048 words of memory out of 5000000
  53349 multiletter control sequences out of 15000+600000
  472119 words of font info for 125 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
