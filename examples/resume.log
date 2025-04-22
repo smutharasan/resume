@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.3.14)  7 MAR 2025 14:50
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.3.14)  22 APR 2025 15:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1245,7 +1245,7 @@ ex-text;" at 10.0pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSans
 Pro-Bold.otf
 
-Overfull \hbox (131.17792pt too wide) in alignment at lines 9--62
+Overfull \hbox (131.17792pt too wide) in alignment at lines 9--42
 [] [] 
  []
 
@@ -1253,27 +1253,27 @@ Overfull \hbox (131.17792pt too wide) in alignment at lines 9--62
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sl' in size <9> not avail
 able
 (Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on inpu
-t line 29.
+t line 27.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/it' will be
-(Font)              scaled to size 9.0pt on input line 29.
+(Font)              scaled to size 9.0pt on input line 27.
 Requested font "[SourceSansPro-LightIt.otf]/OT:script=latn;language=dflt;mappin
 g=tex-text;" at 9.0pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSans
 Pro-LightIt.otf
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 29.
+(Font)              scaled to size 8.0pt on input line 27.
 Requested font "[SourceSansPro-Regular.otf]/OT:script=latn;language=dflt;mappin
 g=tex-text;" at 8.0pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSans
 Pro-Regular.otf
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/sc' will be
-(Font)              scaled to size 8.0pt on input line 29.
+(Font)              scaled to size 8.0pt on input line 27.
 Requested font "[SourceSansPro-Regular.otf]/OT:script=latn;language=dflt;+smcp;
 mapping=tex-text;" at 8.0pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSans
 Pro-Regular.otf
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 29.
+(Font)              scaled to size 8.0pt on input line 27.
 Requested font "[SourceSansPro-Light.otf]/OT:script=latn;language=dflt;mapping=
 tex-text;" at 8.0pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSans
@@ -1281,19 +1281,16 @@ Pro-Light.otf
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sl' in size <8> not avail
 able
 (Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on inpu
-t line 29.
+t line 27.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/it' will be
-(Font)              scaled to size 8.0pt on input line 29.
+(Font)              scaled to size 8.0pt on input line 27.
 Requested font "[SourceSansPro-LightIt.otf]/OT:script=latn;language=dflt;mappin
 g=tex-text;" at 8.0pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSans
 Pro-LightIt.otf
-) (examples/resume/projects.tex
-LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
-(Font)              scaled to size 16.0pt on input line 4.
  [1
 
-]
+]) (examples/resume/projects.tex
 Overfull \hbox (2.92001pt too wide) in paragraph at lines 23--38
    [] 
  []
@@ -1314,12 +1311,12 @@ Pro-Bold.otf
 ) (examples/resume/education.tex) [2]
 (examples/resume.aux) ) 
 Here is how much of TeX's memory you used:
- 33342 strings out of 478190
- 676656 string characters out of 5854827
- 1151048 words of memory out of 5000000
- 53349 multiletter control sequences out of 15000+600000
+ 33341 strings out of 478190
+ 676630 string characters out of 5854827
+ 1153048 words of memory out of 5000000
+ 53348 multiletter control sequences out of 15000+600000
  472119 words of font info for 125 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 114i,12n,127p,573b,438s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 114i,11n,127p,573b,438s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on examples/resume.pdf (2 pages).
