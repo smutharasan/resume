@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.3.14)  22 APR 2025 15:55
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.3.14)  7 JAN 2026 22:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1308,15 +1308,15 @@ Requested font "[SourceSansPro-Bold.otf]/OT:script=latn;language=dflt;mapping=t
 ex-text;" at 9.0pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSans
 Pro-Bold.otf
-) (examples/resume/education.tex) [2]
-(examples/resume.aux) ) 
+) (examples/resume/education.tex [2])
+[3] (examples/resume.aux) ) 
 Here is how much of TeX's memory you used:
  33341 strings out of 478190
  676630 string characters out of 5854827
- 1153048 words of memory out of 5000000
+ 1146048 words of memory out of 5000000
  53348 multiletter control sequences out of 15000+600000
  472119 words of font info for 125 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 114i,11n,127p,573b,438s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 114i,12n,127p,573b,438s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on examples/resume.pdf (2 pages).
+Output written on examples/resume.pdf (3 pages).
